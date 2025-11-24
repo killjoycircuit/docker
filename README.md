@@ -1,4 +1,4 @@
 - Docker is a platform that lets you build, package, and run applications in isolated environments called containers
 - Containers ensure your app runs the same everywhere on any system or cloud
-- Docker Engine  → runs → Docker Image  → becomes → Container
+- Docker Engine → runs → Docker Image → becomes → Container
 - We run Docker images using the Docker Engine to create containers
